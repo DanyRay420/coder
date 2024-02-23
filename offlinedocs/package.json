@@ -15,7 +15,7 @@
     "format:write": "pnpm exec prettier --cache --write './**/*.{css,html,js,json,jsx,md,ts,tsx,yaml,yml}'"
   },
   "dependencies": {
-    "@chakra-ui/react": "2.8.0",
+    "@chakra-ui/react": "2.8.2",
     "@emotion/react": "11",
     "@emotion/styled": "11",
     "@types/lodash": "4.14.196",
